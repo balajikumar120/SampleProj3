@@ -8,6 +8,6 @@ namespace App3
 {
     public class Model
     {
-        string str = string.Empty;
+        string str = "123";
     }
 }
